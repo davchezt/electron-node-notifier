@@ -5,7 +5,7 @@ var utils = require('../lib/utils');
 var Growl = require('./growl');
 var path = require('path');
 var notifier = path.join(
-  __dirname,
+  utils.getVendorDir(),
   '../vendor/terminal-notifier.app/Contents/MacOS/terminal-notifier'
 );
 
