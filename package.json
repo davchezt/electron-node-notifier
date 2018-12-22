@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/mikaelbr/node-notifier.git"
+    "url": "git+ssh://git@github.com:davchezt/node-notifier.git"
   },
   "keywords": [
     "notification center",
