@@ -33,7 +33,7 @@
     "toaster",
     "notification"
   ],
-  "author": "Mikael Brevik",
+  "author": "Raiza Rhamdan",
   "license": "MIT",
   "devDependencies": {
     "eslint": "^5.0.1",
