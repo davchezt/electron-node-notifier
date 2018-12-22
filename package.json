@@ -62,9 +62,9 @@
     ]
   },
   "bugs": {
-    "url": "https://github.com/mikaelbr/node-notifier/issues"
+    "url": "https://github.com/davchezt/node-notifier/issues"
   },
-  "homepage": "https://github.com/mikaelbr/node-notifier#readme",
+  "homepage": "https://github.com/davchezt/node-notifier#readme",
   "directories": {
     "example": "example",
     "test": "test"
